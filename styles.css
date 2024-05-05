@@ -71,3 +71,6 @@ footer {
     font-size: 25px;
     font-weight: bolder;
 }
+.icono {
+    display: inline-block; 
+}
